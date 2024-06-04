@@ -1,0 +1,33 @@
+.fullscreen{
+    background-color: #a7c5fdc7;
+}
+
+.qrbox{
+    background-color: #fff;
+    position: relative;
+    top: 55px;
+    left: 520px;
+    text-align: center;
+    height: 520px;
+    width: 300px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px 0px rgba(209, 209, 209, 0.40);
+}
+
+img{
+    height: 300px;
+    width: 270px;
+    padding: 10px;
+}
+
+.title{
+    color: rgb(11, 11, 49);
+}
+
+.text{
+    color: darkgray;
+    position: relative;
+    text-align: center;
+    margin: 30px;
+    bottom: 10px;
+}
